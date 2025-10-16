@@ -1,13 +1,13 @@
 #  Aula: Amazon CloudFormation
 
-## 🧩 Tema
+##  Tema
 **Automação de recursos na AWS utilizando CloudFormation**
 
 ---
 
-## 📝 Anotações da Aula
+## Anotações da Aula
 
-### 🧪 Prática Realizada
+### Prática Realizada
 1. **Acesso à ferramenta:**  
    - Entramos no **AWS Management Console** e acessamos o serviço **CloudFormation**.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 💡 Insights e Aprendizados
+##  Insights e Aprendizados
 
 - O **CloudFormation** **simplifica a criação e o gerenciamento de recursos AWS** através de **templates declarativos (YAML/JSON)**.  
 - Esses templates permitem **automatizar a infraestrutura**, reduzindo erros manuais e garantindo consistência.  
